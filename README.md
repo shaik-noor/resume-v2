@@ -18,8 +18,8 @@ This project uses `pnpm` as the package manager. Follow the steps below to set u
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/shaik-noor/resume-v2.git
+   cd resume-v2
    ```
 
 2. **Install Dependencies**:
